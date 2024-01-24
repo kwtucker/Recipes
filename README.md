@@ -1,3 +1,3 @@
-# The Kitchen Sink
+# Recipes
 
 The collection of recipes made up of a hodgepodge of disparate elements or ingredients.
