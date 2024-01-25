@@ -4,15 +4,21 @@
 - Yield: 4 to 6 servings
 - Source: [Food Network](https://www.foodnetwork.com/recipes/food-network-kitchen/butternut-squash-stuffed-shells-7177275)
 
-## Grocery
+## Ingredients
 
 All usual house hold ingredients are omitted.
 
+- Butter | 2 tablespoons unsalted |
+- Olive Oil | 2 teaspoons |
 - Squash | 10 ounces |
 - Shallot | 1 small |
 - Garlic | 1 clove |
 - Thyme | 1/4 teaspoons |
 - Sage | 1 large leaf |
+- Vegetable Broth or Water | 1/4 cup |
+- Salt | 1/4 teaspoons |
+- Black pepper | few grinds |
+- Nutmeg | pinch |
 - Pasta Shells | 30 Jumbo (about 10 oz) |
 - Spinach | 2 10 ounces frozen chopped pkgs. |
 - Cream Cheese | 1 pounds | Room temperature |
@@ -20,6 +26,7 @@ All usual house hold ingredients are omitted.
 - Parmesan | 2/3 cup |
 - Heavy Cream | 2 cups |
 - Parmesan | 1 1/3 cups |
+- Mozzarella | 1 cup grated |
 
 ## Lets Go
 
@@ -27,6 +34,7 @@ All usual house hold ingredients are omitted.
 
 1. Add the squash, shallot and garlic to a baking sheet. Drizzle with the olive oil and toss to combine. Sprinkle with the thyme, sage, 1/4 teaspoon salt and a few grinds of black pepper and toss again. Roast until the squash is tender and light golden, about 30 minutes. Let cool
 
+   - Olive Oil | 2 teaspoons |
    - Squash | 10 ounces | Diced about 2 1/2 cups
    - Shallot | 1 small | Halved
    - Garlic | 1 clove | Unpeeled
@@ -40,6 +48,11 @@ All usual house hold ingredients are omitted.
    - Pasta Shells | 30 Jumbo (about 10 oz) |
 
 1. Squeeze the roasted garlic into a small food processor or blender, add the squash, shallot and vegetable broth and puree until smooth
+
+   - Garlic
+   - Squash
+   - Shallot
+   - Vegetable Broth or Water | 1/4 cup |
 
 1. Mix together the spinach, cream cheese, ricotta, red pepper flakes, 2/3 cup of the Parmesan and 1 tablespoon salt in a large bowl. Stuff about 2 tablespoons of the spinach mixture into each shell; set aside
 
@@ -55,6 +68,7 @@ All usual house hold ingredients are omitted.
    - Heavy Cream | 2 cups |
    - Butter | 2 tablespoons unsalted |
    - Salt | 1 1/2 teaspoons |
+   - Nutmeg | pinch |
    - Parmesan | 1 1/3 cups |
 
 1. Spread the cheese sauce into the bottom of a 9-by-13-inch baking dish. Arrange the stuffed shells in the baking dish seam-side up, shingling them so they all fit (you should have 5 shells along the short side and 6 shells along the long side). Top with the mozzarella. Bake until the cheese is melted and bubbling, 15 to 20 minutes. Top with more Parmesan and sage before serving
