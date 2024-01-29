@@ -1,8 +1,11 @@
 # Butternut Squash Stuffed Shells
 
+![Complete][images/complete.jpg]
+
 - Time: 1 hr 30 min
-- Yield: 4 to 6 servings
+- Yield: 7 to 10 servings
 - Source: [Food Network](https://www.foodnetwork.com/recipes/food-network-kitchen/butternut-squash-stuffed-shells-7177275)
+- Serving size: 3-4 per person if there are other sides.
 
 ## Ingredients
 
@@ -12,53 +15,54 @@ All usual house hold ingredients are omitted.
 - Olive Oil | 2 teaspoons |
 - Squash | 10 ounces |
 - Shallot | 1 small |
-- Garlic | 1 clove |
-- Thyme | 1/4 teaspoons |
+- Garlic | 3 clove |
+- Thyme | 1 tablespoon |
 - Sage | 1 large leaf |
-- Vegetable Broth or Water | 1/4 cup |
+- Vegetable Broth or Water | 1/2 cup |
 - Salt | 1/4 teaspoons |
 - Black pepper | few grinds |
 - Nutmeg | pinch |
-- Pasta Shells | 30 Jumbo (about 10 oz) |
+- Jumbo Pasta Shells | 30 Jumbo (about 10 oz) |
 - Spinach | 2 10 ounces frozen chopped pkgs. |
 - Cream Cheese | 1 pounds | Room temperature |
-- Ricotta | 2 cups whole-milk |
-- Parmesan | 2/3 cup |
+- Ricotta (Whole Milk) | 2 cups |
+- Parmesan | 2 cups |
 - Heavy Cream | 2 cups |
-- Parmesan | 1 1/3 cups |
 - Mozzarella | 1 cup grated |
 
 ## Lets Go
 
 1. Preheat the oven to 425 F
 
-1. Add the squash, shallot and garlic to a baking sheet. Drizzle with the olive oil and toss to combine. Sprinkle with the thyme, sage, 1/4 teaspoon salt and a few grinds of black pepper and toss again. Roast until the squash is tender and light golden, about 30 minutes. Let cool
+1. Bring a large pot of water to a boil; add salt. Add the pasta shells and cook until al dente according to the package directions. Drain and let cool
+
+   - Pasta Shells | 30 Jumbo (about 10 oz) |
+
+1. Meanwhile, Add the squash, shallot and garlic to a baking sheet. Drizzle with the olive oil and toss to combine. Sprinkle with the thyme, sage, 1/4 teaspoon salt and a few grinds of black pepper and toss again. Roast until the squash is tender and light golden, about 30 minutes. Let cool
 
    - Olive Oil | 2 teaspoons |
-   - Squash | 10 ounces | Diced about 2 1/2 cups
+   - Squash | 10 ounces/one regular sized | Diced about 2 1/2 cups
    - Shallot | 1 small | Halved
-   - Garlic | 1 clove | Unpeeled
-   - Thyme | 1/4 teaspoons | Fresh, finely chopped
+   - Garlic | 3 clove | Unpeeled
+   - Thyme | 1 tablespoon | Fresh, finely chopped
    - Sage | 1 large leaf | Fresh, finely chopped, plus more for serving
    - Salt | 1/4 teaspoons |
    - Black pepper | few grinds |
 
-1. Meanwhile, bring a large pot of water to a boil; add salt. Add the pasta shells and cook until al dente according to the package directions. Drain and let cool
-
-   - Pasta Shells | 30 Jumbo (about 10 oz) |
+   ![Backing pan](images/roasting_squash.jpg)
 
 1. Squeeze the roasted garlic into a small food processor or blender, add the squash, shallot and vegetable broth and puree until smooth
 
-   - Garlic
-   - Squash
-   - Shallot
-   - Vegetable Broth or Water | 1/4 cup |
+   - Garlic cloves | 3 |
+   - Squash | 1 |
+   - Shallot | 1 |
+   - Vegetable Broth or Water | 1/2 cup |
 
-1. Mix together the spinach, cream cheese, ricotta, red pepper flakes, 2/3 cup of the Parmesan and 1 tablespoon salt in a large bowl. Stuff about 2 tablespoons of the spinach mixture into each shell; set aside
+1. Mix together the following Ingredients in a large bowl. Stuff about 2 tablespoons of the spinach mixture into each shell; set aside
 
    - Spinach | 2 10 ounces frozen chopped pkgs. | Drained and squeezed dry
    - Cream Cheese | 1 pounds | Room temperature
-   - Ricotta | 2 cups whole-milk |
+   - Ricotta | 2 cups |
    - Red Pepper flakes | 2 teaspoons |
    - Parmesan | 2/3 cup |
    - Salt | 1 tablespoon |
