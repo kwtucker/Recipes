@@ -1,6 +1,6 @@
 # Butternut Squash Stuffed Shells
 
-![Complete][images/complete.jpg]
+![Complete](images/complete.jpg)
 
 - Time: 1 hr 30 min
 - Yield: 7 to 10 servings
